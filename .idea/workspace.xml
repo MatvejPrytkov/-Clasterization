@@ -1,30 +1,126 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="58c3e698-005a-4c68-a1ab-2eae8232bf58" name="Changes" comment="" />
+    <list default="true" id="58c3e698-005a-4c68-a1ab-2eae8232bf58" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/1.L.5.fl.10.fn.512.dist.0.05.k.10.dat.step.33800.vtk" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1.L.5.fl.10.fn.512.dist.0.05.k.10.dat.step.35400.vtk" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1.L.5.fl.10.fn.512.dist.0.05.k.10.dat.step.36600.vtk" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1.L.5.fl.10.fn.512.dist.0.05.k.10.dat.step.36800.vtk" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1.L.5.fl.10.fn.512.dist.0.05.k.10.dat.step.37000.vtk" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1.L.5.fl.10.fn.512.dist.0.05.k.10.dat.step.37200.vtk" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1.L.5.fl.10.fn.512.dist.0.05.k.10.dat.step.37400.vtk" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1.L.5.fl.10.fn.512.dist.0.05.k.10.dat.step.38400.vtk" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/calc_Rg.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/clusters_1.L.5.fl.10.fn.512.dist.0.05.k.10.dat.step.33800/cluster_0_size_990.vtk" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/clusters_1.L.5.fl.10.fn.512.dist.0.05.k.10.dat.step.33800/cluster_1_size_1100.vtk" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/clusters_1.L.5.fl.10.fn.512.dist.0.05.k.10.dat.step.33800/cluster_2_size_1710.vtk" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/clusters_1.L.5.fl.10.fn.512.dist.0.05.k.10.dat.step.33800/cluster_3_size_50.vtk" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/clusters_1.L.5.fl.10.fn.512.dist.0.05.k.10.dat.step.33800/cluster_4_size_190.vtk" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/clusters_1.L.5.fl.10.fn.512.dist.0.05.k.10.dat.step.33800/cluster_5_size_530.vtk" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/clusters_1.L.5.fl.10.fn.512.dist.0.05.k.10.dat.step.33800/cluster_6_size_490.vtk" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/clusters_1.L.5.fl.10.fn.512.dist.0.05.k.10.dat.step.33800/cluster_7_size_60.vtk" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/clusters_1.L.5.fl.10.fn.512.dist.0.05.k.10.dat.step.35400/cluster_0_size_990.vtk" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/clusters_1.L.5.fl.10.fn.512.dist.0.05.k.10.dat.step.35400/cluster_1_size_1100.vtk" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/clusters_1.L.5.fl.10.fn.512.dist.0.05.k.10.dat.step.35400/cluster_2_size_1710.vtk" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/clusters_1.L.5.fl.10.fn.512.dist.0.05.k.10.dat.step.35400/cluster_3_size_50.vtk" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/clusters_1.L.5.fl.10.fn.512.dist.0.05.k.10.dat.step.35400/cluster_4_size_190.vtk" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/clusters_1.L.5.fl.10.fn.512.dist.0.05.k.10.dat.step.35400/cluster_5_size_530.vtk" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/clusters_1.L.5.fl.10.fn.512.dist.0.05.k.10.dat.step.35400/cluster_6_size_490.vtk" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/clusters_1.L.5.fl.10.fn.512.dist.0.05.k.10.dat.step.35400/cluster_7_size_60.vtk" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/clusters_1.L.5.fl.10.fn.512.dist.0.05.k.10.dat.step.36600/cluster_0_size_2700.vtk" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/clusters_1.L.5.fl.10.fn.512.dist.0.05.k.10.dat.step.36600/cluster_1_size_1100.vtk" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/clusters_1.L.5.fl.10.fn.512.dist.0.05.k.10.dat.step.36600/cluster_2_size_50.vtk" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/clusters_1.L.5.fl.10.fn.512.dist.0.05.k.10.dat.step.36600/cluster_3_size_190.vtk" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/clusters_1.L.5.fl.10.fn.512.dist.0.05.k.10.dat.step.36600/cluster_4_size_530.vtk" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/clusters_1.L.5.fl.10.fn.512.dist.0.05.k.10.dat.step.36600/cluster_5_size_490.vtk" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/clusters_1.L.5.fl.10.fn.512.dist.0.05.k.10.dat.step.36600/cluster_6_size_60.vtk" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/clusters_1.L.5.fl.10.fn.512.dist.0.05.k.10.dat.step.36800/cluster_0_size_2700.vtk" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/clusters_1.L.5.fl.10.fn.512.dist.0.05.k.10.dat.step.36800/cluster_1_size_1100.vtk" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/clusters_1.L.5.fl.10.fn.512.dist.0.05.k.10.dat.step.36800/cluster_2_size_50.vtk" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/clusters_1.L.5.fl.10.fn.512.dist.0.05.k.10.dat.step.36800/cluster_3_size_190.vtk" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/clusters_1.L.5.fl.10.fn.512.dist.0.05.k.10.dat.step.36800/cluster_4_size_530.vtk" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/clusters_1.L.5.fl.10.fn.512.dist.0.05.k.10.dat.step.36800/cluster_5_size_490.vtk" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/clusters_1.L.5.fl.10.fn.512.dist.0.05.k.10.dat.step.36800/cluster_6_size_60.vtk" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/clusters_1.L.5.fl.10.fn.512.dist.0.05.k.10.dat.step.37000/cluster_0_size_2700.vtk" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/clusters_1.L.5.fl.10.fn.512.dist.0.05.k.10.dat.step.37000/cluster_1_size_1100.vtk" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/clusters_1.L.5.fl.10.fn.512.dist.0.05.k.10.dat.step.37000/cluster_2_size_50.vtk" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/clusters_1.L.5.fl.10.fn.512.dist.0.05.k.10.dat.step.37000/cluster_3_size_190.vtk" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/clusters_1.L.5.fl.10.fn.512.dist.0.05.k.10.dat.step.37000/cluster_4_size_530.vtk" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/clusters_1.L.5.fl.10.fn.512.dist.0.05.k.10.dat.step.37000/cluster_5_size_490.vtk" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/clusters_1.L.5.fl.10.fn.512.dist.0.05.k.10.dat.step.37000/cluster_6_size_60.vtk" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/clusters_1.L.5.fl.10.fn.512.dist.0.05.k.10.dat.step.37200/cluster_0_size_2700.vtk" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/clusters_1.L.5.fl.10.fn.512.dist.0.05.k.10.dat.step.37200/cluster_1_size_1100.vtk" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/clusters_1.L.5.fl.10.fn.512.dist.0.05.k.10.dat.step.37200/cluster_2_size_50.vtk" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/clusters_1.L.5.fl.10.fn.512.dist.0.05.k.10.dat.step.37200/cluster_3_size_190.vtk" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/clusters_1.L.5.fl.10.fn.512.dist.0.05.k.10.dat.step.37200/cluster_4_size_530.vtk" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/clusters_1.L.5.fl.10.fn.512.dist.0.05.k.10.dat.step.37200/cluster_5_size_490.vtk" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/clusters_1.L.5.fl.10.fn.512.dist.0.05.k.10.dat.step.37200/cluster_6_size_60.vtk" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/clusters_1.L.5.fl.10.fn.512.dist.0.05.k.10.dat.step.37400/cluster_0_size_2700.vtk" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/clusters_1.L.5.fl.10.fn.512.dist.0.05.k.10.dat.step.37400/cluster_1_size_1100.vtk" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/clusters_1.L.5.fl.10.fn.512.dist.0.05.k.10.dat.step.37400/cluster_2_size_50.vtk" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/clusters_1.L.5.fl.10.fn.512.dist.0.05.k.10.dat.step.37400/cluster_3_size_190.vtk" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/clusters_1.L.5.fl.10.fn.512.dist.0.05.k.10.dat.step.37400/cluster_4_size_530.vtk" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/clusters_1.L.5.fl.10.fn.512.dist.0.05.k.10.dat.step.37400/cluster_5_size_490.vtk" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/clusters_1.L.5.fl.10.fn.512.dist.0.05.k.10.dat.step.37400/cluster_6_size_60.vtk" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/clusters_1.L.5.fl.10.fn.512.dist.0.05.k.10.dat.step.38400/cluster_0_size_2700.vtk" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/clusters_1.L.5.fl.10.fn.512.dist.0.05.k.10.dat.step.38400/cluster_1_size_1100.vtk" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/clusters_1.L.5.fl.10.fn.512.dist.0.05.k.10.dat.step.38400/cluster_2_size_50.vtk" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/clusters_1.L.5.fl.10.fn.512.dist.0.05.k.10.dat.step.38400/cluster_3_size_190.vtk" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/clusters_1.L.5.fl.10.fn.512.dist.0.05.k.10.dat.step.38400/cluster_4_size_530.vtk" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/clusters_1.L.5.fl.10.fn.512.dist.0.05.k.10.dat.step.38400/cluster_5_size_490.vtk" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/clusters_1.L.5.fl.10.fn.512.dist.0.05.k.10.dat.step.38400/cluster_6_size_60.vtk" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/clusters_for_chains_from_vtk.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/задание.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mpi_clusterizer.py" beforeDir="false" afterPath="$PROJECT_DIR$/mpi_clusterizer.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 2
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 2
+}</component>
   <component name="ProjectId" id="36jQVYZho8jtwa2lZlUrCea2nbb" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "Python.calc_Rg.executor": "Run",
+    "Python.clusters_for_chains_from_vtk.executor": "Run",
+    "Python.mpi_clusterizer.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "master"
+    "git-widget-placeholder": "main",
+    "last_opened_file_path": "C:/Users/matve/OneDrive/Рабочий стол/Универ/Task_2"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Проекты\Task_2" />
+    </key>
+  </component>
   <component name="RunManager">
     <configuration name="main" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
       <module name="Task_2" />
@@ -67,15 +163,7 @@
     </task>
     <servers />
   </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/main.py</url>
-          <line>8</line>
-          <option name="timeStamp" value="1" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
   </component>
 </project>
